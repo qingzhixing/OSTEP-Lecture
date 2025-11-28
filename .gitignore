@@ -2,3 +2,6 @@
 .vscode/
 .idea/
 .marscode/
+
+# Test file
+test.txt
