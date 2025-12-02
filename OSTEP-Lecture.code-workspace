@@ -4,5 +4,13 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.associations": {
+			"*.nasm": "nasm",
+			"array": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp",
+			"random": "cpp"
+		}
+	}
 }

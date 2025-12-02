@@ -3,5 +3,9 @@
 .idea/
 .marscode/
 
+# Compile file
+*.o
+*.out
+
 # Test file
 test.txt
